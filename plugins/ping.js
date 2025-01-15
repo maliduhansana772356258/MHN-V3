@@ -37,7 +37,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 const startTime = Date.now()
-        const message = await conn.sendMessage(from, { text: '*_🪄Pinging..._*' })
+        const message = await conn.sendMessage(from, { text: '*Mαʅιԃυ Hαɳʂαɳα Bσƚ_🪄Pinging..._*' })
         const endTime = Date.now()
         const ping = endTime - startTime
         await conn.sendMessage(from, { text: `*♻️ Speed... : ${ping}ms*`}, { quoted: message })
