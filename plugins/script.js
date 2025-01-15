@@ -13,19 +13,19 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *MR DINESH*
+*|* *MR 𝗠𝗔𝗟𝗜𝗗𝗨 𝗛𝗔𝗡𝗦𝗔𝗡𝗔*
 
 > *QUEEN SADU_MD REPO:*
-*|* *https://github.com/mrdinesh595/QUEEN-SADU-MD*
+*|* *https://github.com/*
 
 > *SUPPORT CHENNAL:*
-*|* *https://whatsapp.com/channel/0029Vb0Anqe9RZAcEYc2fT2c*
+*|* *https://whatsapp.com/channel/0029Vb0Anqe9ZAcEYc2fT2c*
 > * *SYSTEM SETTING:*
-*|* *ᴍʀ ʟᴀᴋꜱʜᴀɴ*
+*|* *ᴍʀ Malidu*
 *|* *94786528867*
 *╰──────────────●●►*
 
-> *CREATED BY MR DINESH*
+> *CREATED BY MR 𝗠𝗔𝗟𝗜𝗗𝗨 𝗛𝗔𝗡𝗦𝗔𝗡𝗔*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -35,11 +35,11 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "QUEEN SADU",
+      newsletterName: "𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'QUEEN SADU',
+title: '𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/mrdinesh595" ,
