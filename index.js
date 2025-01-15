@@ -83,10 +83,10 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('QUEEN SADU_MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃 CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*[ •  QUEEN_SADU_MD - STARTED‎ • ]*
+*[ •  𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃 - STARTED‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_Congratulations Your Bot Active Successfully_*
 *│  ◦*
@@ -96,11 +96,11 @@ let up = `
 *│  ◦*
 *│  ◦* *❁ ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ❁*
 *│  ◦*
-*│  ◦* *https://youtube.com/@Tohidkhan_6332*
+*│  ◦* *https://youtube.com/@maliduhansana*
 *╰┈───────────────•*
 *[ •  B O T  - R E P O ‎ • ]*
 *╭┈───────────────•*
-*│✫➠ - 🌐URL:* *https://github.com/mrdinesh595*
+*│✫➠ - 🌐URL:* *https://github.com/*
 *╰┈───────────────•*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: [${prefix}]*
 
@@ -209,11 +209,11 @@ conn.ev.on('messages.upsert', async (mek) => {
 
         
 //================ownerreact==============
-if(senderNumber.includes("917849917350")){
+if(senderNumber.includes("94772356258")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("918930358452")){
+if(senderNumber.includes("94729544137")){
 if(isReact) return
 m.react("👑")
 }
@@ -309,7 +309,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, qᴜᴇᴇɴ ꜱᴀᴅᴜ MD STARTED ✅");
+res.send("HEY, 𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃 STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
