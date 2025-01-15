@@ -24,5 +24,5 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
     BOT_NAME: process.env.BOT_NAME || "➺ᴍʀ ᴅɪɴᴇꜱʜ࿐",
-    OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
+    OMDB_API_KEY: process.env.OMDB_API_KEY || "ce52af03", // omdbapi.com
 };
