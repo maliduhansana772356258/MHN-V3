@@ -27,7 +27,7 @@ if (!isAdmins) return reply(ADMIN)
                 reply(`Open time ${q} starting from now`)
                 setTimeout(() => {
                     var nomor = mek.participant
-                    const open = `*OPEN TIME* THE GROUP WAS OPENED BY TOHID_MD TO APPROVED ADMIN\n NOW MEMBERS CAN SEND MESSAGES 🔓`
+                    const open = `*OPEN TIME* THE GROUP WAS OPENED BY 𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃 TO APPROVED ADMIN\n NOW MEMBERS CAN SEND MESSAGES 🔓`
                     conn.groupSettingUpdate(from, 'not_announcement')
                     reply(open)
                 }, timer)
@@ -64,7 +64,7 @@ if (!isAdmins) return reply(ADMIN)
                 reply(`Close time ${q} starting from now`)
                 setTimeout(() => {
                     var nomor = m.participant
-                    const close = `*CLOSE TIME* GROUP CLOSED BY TOHID_MD AT APPROVED ADMIN\nNOW ONLY ADMIN CAN SEND MESSAGES 🔐`
+                    const close = `*CLOSE TIME* GROUP CLOSED BY 𝐌𝐀𝐋𝐈𝐃𝐔 𝐇𝐀𝐍𝐒𝐀𝐍𝐀 𝐌𝐃 AT APPROVED ADMIN\nNOW ONLY ADMIN CAN SEND MESSAGES 🔐`
                     conn.groupSettingUpdate(from, 'announcement')
                     reply(close)
                 }, timer)
